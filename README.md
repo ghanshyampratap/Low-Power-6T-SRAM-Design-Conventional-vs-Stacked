@@ -1,4 +1,4 @@
-# 🧠 6T SRAM Cell – Conventional vs Stacked | LTspice Simulation (GPDK 90nm)
+#  6T SRAM Cell – Conventional vs Stacked | LTspice Simulation
 
 ## 📘 INTRODUCTION
 The 6T SRAM (Static Random Access Memory) cell is a fundamental building block in VLSI memory design, used for high-speed data storage. It consists of six transistors—four forming two cross-coupled inverters and two NMOS access transistors that interface with bitlines during read/write operations.
